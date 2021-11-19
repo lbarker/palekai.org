@@ -4,8 +4,9 @@
                   <img src="assets/images/don-posting.jpg" alt="PKO steerman posting" />
           </span>
           <header class="major">
-                  <h3><a href="/members/registration/" class="link">2021 Member Registration</a></h3>
-                  <p>Click here to begin the registration process for the 2021 paddling season.</p>
+                  <h3><a href="/members/registration/" class="link">2022 Member Registration</a></h3>
+                  <p>Registration for the 2022 season will open March 1st 2022; Check back soon!
+                  <!-- Click here to begin the registration process for the 2022 paddling season.</p> -->
           </header>
   </article>
  
@@ -28,10 +29,17 @@ Donate Now.</p>
 		                <span class="image">
 		                        <img src="{{ post.image }}" alt="" />
 		                </span>
+                        {% if post.title == "Pale Kai Demo Days" %}
+		                <header class="major">
+		                        <h3><a href="/recruitment-program/" class="link">{{ post.title }}</a></h3>
+		                        <p>{{ post.description }}</p>
+		                </header>
+                        {% else %}
 		                <header class="major">
 		                        <h3><a href="{{ post.url  | relative_url }}" class="link">{{ post.title }}</a></h3>
 		                        <p>{{ post.description }}</p>
 		                </header>
+                        {% endif %}
 		        </article>
 			{% endif %}
 	{% endfor %}

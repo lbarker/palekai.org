@@ -14,7 +14,7 @@ Thank you to the board members who selflessly volunteer their time and talent be
 - Secretary:                Jill O'Connor
 - Treasurer:                Nancy Needham & Stephanie Currier
 - Events Coordinator:       Melissa Latimer
-- Membership:               Kara Raftery
+- Membership:               Flo Bee
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
 - Sponsorship/Fundraising:  Kim Lillywhite
