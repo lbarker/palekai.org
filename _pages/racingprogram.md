@@ -64,7 +64,7 @@ redirect_from:
 			</tr>
 			<tr>
 				<td>For those interested in paddling with Pale Kai</td>
-				<td colspan="3">Demo Days start January 8, 2022! Go to <a href="http://localhost:4000/joinus/">Recruiting</a> for more information.</td>
+				<td colspan="3">Demo Days start January 8, 2022! Go to <a href="/joinus/">Recruiting</a> for more information.</td>
 			</tr>
 <!--
 			<tr>
