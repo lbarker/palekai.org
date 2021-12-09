@@ -10,10 +10,10 @@ permalink: /board/
 Thank you to the board members who selflessly volunteer their time and talent behind the scenes to keep this club operating smoothly:
 
 - President:                Paul Worthington
-- Vice President:           TBD
+- Vice President:           Mike Traynor
 - Secretary:                Jill O'Connor
 - Treasurer:                Nancy Needham & Stephanie Currier
-- Events Coordinator:       Melissa Latimer
+- Events Coordinator:       Carrie De Ruyter
 - Membership:               Flo Bee
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
