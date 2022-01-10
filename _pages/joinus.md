@@ -2,6 +2,7 @@
 layout: post
 title: Recruitment Program
 description: Information about our recruitment program and joining Pale Kai Outrigger
+date: today
 image: assets/images/2019-recruitment-background.jpg
 permalink: /recruitment-program/
 redirect_from:
@@ -144,16 +145,28 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 <p>
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
+
 <a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a>
+<p></p>
+
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 <h4>August-September: 9-Man Season</h4>
 <p>
 Those Novice who develop proficiency may also be invited to compete in the 9-Man Season.  There is no guarantee that as a novice you will participate in nine person crews, due to the increased physical demands and technical skill required to safely perform open water crew changes.  The 9-man races are much longer distances than the iron season, from 20 miles to over 30 miles. Paddlers must demonstrate the endurance and proficiency during practice to be considered for a 9-man crew.
 </p>
-<p>The race season finishes with the US Outrigger Championships Catalina Crossing where 9 man crews race from Newport to Catalina. Here's the drone footage of the women and coed crews leaving Newport.</p>
+
+<p>
+    The race season finishes with the US Outrigger Championships Catalina Crossing where women's and co-ed teams race from Newport to Catalina
+    on Saturday and the men race back on Sunday. 
+    <!--Here's the drone footage of the women and coed crews leaving Newport.-->
+</p>
+
+<!-- Video no longer available
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3YqqHw4mbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<p>&nbsp;</p>
+-->
+
 <h4>September-January:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
 </p>
@@ -165,6 +178,3 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <p>Outrigger canoe racing takes place all over the world! The Olamau Race sees the best outrigger canoe teams compete off the coast of Hawaii’s Big Island. Ocean knowledge, skill, and perseverance aren’t always enough to succeed, but they can keep you above water. Watch the short below about a Californian team competing in The Olamau Race.</p>
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/u-lGBRTvQzU" frameborder="0" allowfullscreen></iframe>
-
-
-
