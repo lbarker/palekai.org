@@ -32,12 +32,6 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 8, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
-						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
-					</tr>
-					<tr>
 						<td>Jan 22, 2022</td>
 						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
@@ -123,16 +117,18 @@ participate in:
 
 <!--<hr class="major" />-->
 
+<p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
+
 <h2>Novice Year Overview</h2>
-<p><i>Note: Dates and times shown here are subject to change.</i></p>
-<h4>January - March:  Recruitment </h4>
 
-<p>The Recruitment Program proceeds on Saturdays in Morro Bay between 8:00 a.m.and 12:00 p.m. Pale Kai’s “Three for Free” policy
+<h4>January - February:  Recruitment </h4>
+
+<p>Pale Kai’s “Three for Free” policy
 allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
-dues. This is a time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
+dues. The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
 
-<h4>April: Race Training 3x a week</h4>
-<p>Race training will begin in early April.</p>
+<h4>March - April:  Race Training 3 times a week</h4>
+<p>Race training will begin in early March.</p>
 <p>
 Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
 
@@ -146,8 +142,7 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
 
-<a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a>
-<p></p>
+<p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
 
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>

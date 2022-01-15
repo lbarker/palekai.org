@@ -63,7 +63,7 @@ redirect_from:
 	</table>
 </div>
 
-<h3>Tentative 2022 Practice Schedule</h3>
+<h3>Tentative 2022 Practice Schedule (starting March 1, 2022)</h3>
 
 <p><i>
     Note: Practice times are subject to change. Click <a href="/calendar/">here</a>
