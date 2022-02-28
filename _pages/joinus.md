@@ -9,19 +9,12 @@ redirect_from:
   - /joinus/
 ---
 <h2>2022 Recruitment Program</h2>
-<!--
-<div class="box">
-	<p>The 2020 Recruitment Program has concluded! <strong>The 1st day of Pre Season Novice Pracice is March 8th in Morro Bay</strong>.</p>
-	<p>If you didn't make it out to the Recruitment Program this year but still plan on join PKO for 2020 - then register now and make sure to be at our Pre Season Novice Practice!</p>
-	<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
-</div>
--->
+
+<p>The 2022 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
+<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
+<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
 
 <!--
-<p>Recruiting normally begins mid-to-late January and continues through February. However, due to state and county
-COVID-19 restrictions, recruiting is postponed indefinitely.</p>
--->
-
 <h4>Demo Days in Morro Bay - January and February 2022</h4>
 
 <p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
@@ -54,13 +47,6 @@ COVID-19 restrictions, recruiting is postponed indefinitely.</p>
 </div>
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
-
-<!--
-Commenting out YouTube's embed block in favor of the one I found at the bottom of this page;
-Renders better on my phone.
-
-<iframe width="100%" height="624" src="https://www.youtube.com/embed/zrnwIQfU3R4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
--->
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
 
@@ -98,8 +84,7 @@ Pale Kai members.
 </p>
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
-
-<!--<p>We also have a Facebook event <a href="https://www.facebook.com/events/1041638106015534/">here</a>.</p>-->
+-->
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -162,7 +147,7 @@ Those Novice who develop proficiency may also be invited to compete in the 9-Man
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a3YqqHw4mbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 -->
 
-<h4>September-January:  Winter Paddling</h4>
+<h4>September-March:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes. A few boats will  then be re-located to Morro Bay for more protected paddling.  
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
