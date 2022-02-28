@@ -34,6 +34,7 @@ redirect_from:
 <p>For this season, Pale Kai Outrigger women's and men's teams will practice 3 days a week with a fourth day of practice for those who wish to race on top teams. It's going to be great year with more blending amongst all our paddlers and lots more time on the water.</p>
 -->
 
+<!-- Demo Days and Winter Paddling are done for the season!
 <p><a href="/joinus/">Click here</a> for the 2022 Demo Days schedule.</p>
 
 <h3>Winter Paddling in Morro Bay (PKO Veterans)</h3>
@@ -62,12 +63,17 @@ redirect_from:
 		</tbody>
 	</table>
 </div>
+-->
 
-<h3>Tentative 2022 Practice Schedule (starting March 1, 2022)</h3>
+<h3>2022 Practice Schedule</h3>
 
 <p><i>
     Note: Practice times are subject to change. Click <a href="/calendar/">here</a>
     or visit <a href="https://go.teamsnap.com/" target="_blank">TeamSnap</a> for the latest schedule.
+</i></p>
+
+<p><i>
+    Note: There will be no weekday practices during the first week of March.
 </i></p>
 
 <div class="table-wrapper">
@@ -86,25 +92,30 @@ redirect_from:
 				<td>Novice</td>
 				<td>
 					5:30pm to dusk<br/>
+                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>
 				<td>
 					5:30pm to dusk<br/>
+                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>
                 <td></td>
 				<td>
 					8:30am to 11:30am<br/>
+                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>	
 			</tr>
 			<tr>
 				<td>Vet<br>Women</td>
 				<td>
+                    Beginning March 14th<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
 				<td>
+                    Beginning March 16th<br>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
@@ -117,12 +128,14 @@ redirect_from:
 			<tr>
 				<td>Vet<br>Men</td>
 				<td>
+                    Beginning March 14th<br>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
                 <td>
                 </td>
 				<td>
+                    Beginning March 17th<br/>
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
