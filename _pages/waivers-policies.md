@@ -24,7 +24,7 @@ permalink: /members/waivers-policies/
 
 
 <li>
-<a href="https://drive.google.com/file/d/0BxDvVyv9_lDCamcyb2RnTXhWczQ/view?usp=sharing" class=" button small">OC 1 Policy</a>
+<a href="https://drive.google.com/file/d/0BxDvVyv9_lDCamcyb2RnTXhWczQ/view?usp=sharing&resourcekey=0-HToFpQudAWs2JBbz56PQTQ" class=" button small">OC 1 Policy</a>
 </li>
 
 </ul>
@@ -44,7 +44,7 @@ permalink: /members/waivers-policies/
 </li>
 
 <li>
-<a href="https://drive.google.com/open?id=0BxDvVyv9_lDCUGwxNDBFLTFFanc" class="button small">Code of Conduct</a>
+<a href="https://drive.google.com/file/d/0BxDvVyv9_lDCUGwxNDBFLTFFanc/view?usp=sharing&resourcekey=0-CyOyXvNTG24d27mMlYu45A" class="button small">Code of Conduct</a>
 </li>
 <li>
 <a href="https://drive.google.com/open?id=1TU-6maFc8nWAmoxHMm0ht0I7LVBd_MtK" class="button small">Paddling Manual</a>
