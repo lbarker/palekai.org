@@ -108,9 +108,16 @@ participate in:
 
 <h4>January - February:  Recruitment </h4>
 
-<p>Pale Kai’s “Three for Free” policy
-allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
-dues. The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new friends!</p>
+
+<p>
+    <!-- Temporarilty this copy to avoid confusion AFTER recruiting season
+    Pale Kai’s “Three for Free” policy
+    allows newcomers to experience outrigger paddling in the relatively calm waters of Morro Bay without paying a fee or membership
+    dues.
+    -->
+    The recruitment season is the time to become acquainted with the sport and culture of outrigger canoe racing while making new
+    friends!
+</p>
 
 <h4>March - April:  Race Training 3 times a week</h4>
 <p>Race training will begin in early March.</p>
