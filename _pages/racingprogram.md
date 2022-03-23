@@ -65,25 +65,24 @@ redirect_from:
 </div>
 -->
 
-<h3>2022 Practice Schedule</h3>
-
 <p><i>
     Note: Practice times are subject to change. Click <a href="/calendar/">here</a>
     or visit <a href="https://go.teamsnap.com/" target="_blank">TeamSnap</a> for the latest schedule.
 </i></p>
 
+<!--
 <p><i>
     Note: There will be no weekday practices prior to the start of Daylight Savings Time (March 13).
 </i></p>
+-->
 
 <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
 				<th></th>
-				<th style="text-align:center">Monday<br/>(Beginning March 14th)</th>
-				<th style="text-align:center">Wednesday<br/>(Beginning March 16th)</th>
-				<th style="text-align:center">Thursday<br/>(Beginning March 17th)</th>
+				<th style="text-align:center">Monday</th>
+				<th style="text-align:center">Wednesday</th>
 				<th style="text-align:center">Saturday</th>
 			</tr>
 		</thead>
@@ -92,18 +91,14 @@ redirect_from:
 				<td>Novice</td>
 				<td>
 					5:30pm to dusk<br/>
-                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>
 				<td>
 					5:30pm to dusk<br/>
-                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>
-                <td></td>
 				<td>
 					8:30am to 11:30am<br/>
-                    Morro Bay thru March 23rd then
                     Avila Beach
 				</td>	
 			</tr>
@@ -117,7 +112,6 @@ redirect_from:
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
-				<td></td>
 				<td>
 					8:30am to 11:30am<br/>
                     Avila Beach
@@ -130,11 +124,9 @@ redirect_from:
                     Avila Beach
 				</td>
                 <td>
-                </td>
-				<td>
 					5:30pm to dusk<br/>
                     Avila Beach
-				</td>
+                </td>
 				<td>
 					8:30am to 11:30am<br/>
                     Avila Beach
@@ -142,12 +134,10 @@ redirect_from:
 			</tr>
 			<tr>
 				<td>Alumni</td>
-                <td colspan=4>The Alumni practice schedule has not yet been finalized.</td>
+                <td colspan=4>The Alumni workout schedule has not been finalized.</td>
                 <!--
 				<td>
 				</td>
-                <td>
-                </td>
 				<td>
 				</td>
 				<td>
@@ -161,7 +151,7 @@ redirect_from:
 			<tr>
 				<td colspan="5">
                     <P>
-                        Please plan to be on the water at the appointed time.
+                        Please plan to be ON THE WATER at the appointed time.
                     </p>
 				</td>
 			</tr>
