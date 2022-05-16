@@ -83,6 +83,7 @@ redirect_from:
 				<th></th>
 				<th style="text-align:center">Monday</th>
 				<th style="text-align:center">Wednesday</th>
+				<th style="text-align:center">Thursday</th>
 				<th style="text-align:center">Saturday</th>
 			</tr>
 		</thead>
@@ -97,6 +98,8 @@ redirect_from:
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
+                <td>
+                </td>
 				<td>
 					8:30am to 11:30am<br/>
                     Avila Beach
@@ -112,6 +115,8 @@ redirect_from:
 					5:30pm to dusk<br/>
                     Avila Beach
 				</td>
+                <td>
+                </td>
 				<td>
 					8:30am to 11:30am<br/>
                     Avila Beach
@@ -124,6 +129,8 @@ redirect_from:
                     Avila Beach
 				</td>
                 <td>
+                </td>
+                <td>
 					5:30pm to dusk<br/>
                     Avila Beach
                 </td>
@@ -134,7 +141,7 @@ redirect_from:
 			</tr>
 			<tr>
 				<td>Alumni</td>
-                <td colspan=4>The Alumni workout schedule has not been finalized.</td>
+                <td colspan=5>The Alumni workout schedule has not been finalized.</td>
                 <!--
 				<td>
 				</td>
