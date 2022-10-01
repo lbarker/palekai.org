@@ -5,6 +5,7 @@ description: Sponsoring Plae Kai Outrigger Canoe Club
 image: assets/images/outriggers-onwater-2.jpg
 nav-menu: true
 permalink: /sponsorship/
+feature: true
 
 ---
 
