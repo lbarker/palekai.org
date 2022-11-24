@@ -10,7 +10,6 @@ image: assets/images/board-meeting-2.jpg
 The following individuals have been elected to serve as PKO Board Members and Officers for 2023:
 -----------------------------
 - President:                No candidates. Current VP (Mike Traynor) will serve.
-
 <!—
 The following five positions serve for two years and are up for election in odd-numbered years. 
 - Vice President:           Mike Traynor
@@ -19,7 +18,6 @@ The following five positions serve for two years and are up for election in odd-
 - Transportation:           Bob Teaford
 - Communications:           Kristen Sanchez
 —>
-
 <!—
  The next six positions serve for two years and are only up for election in even-numbered years.
 —>
@@ -29,7 +27,6 @@ The following five positions serve for two years and are up for election in odd-
 - Sponsorship/Fundraising:  Geof Findley 
 - SCORA Rep:                Melissa Traynor
 - Head Coach:               Scott Bixler
-
 <!— The remaining positions serve for one year —>
 - Men's Coach:              Austin Bixler
 - Women's Coach:            No candidates. Board will attempt to fill position in January.
