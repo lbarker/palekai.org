@@ -11,18 +11,18 @@ The following individuals have been elected to serve as PKO Board Members and Of
 -----------------------------
 - President:                No candidates. Current VP (Mike Traynor) will serve.
 
-<!—-
+<!—
 The following five positions serve for two years and are up for election in odd-numbered years. 
 - Vice President:           Mike Traynor
 - Secretary:                Brenda Breslin
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
 - Communications:           Kristen Sanchez
--—> 
+—>
 
-<!--
+<!—
  The next six positions serve for two years and are only up for election in even-numbered years.
--->
+—>
 - Treasurer:                Stephanie Tran
 - Events Coordinator:       Aggie Arvizu & Jenny Beck
 - Recruiting & Membership:  Katherine Nilbrink & Cindy Vormbaum
@@ -30,7 +30,7 @@ The following five positions serve for two years and are up for election in odd-
 - SCORA Rep:                Melissa Traynor
 - Head Coach:               Scott Bixler
 
-<!—- The remaining positions serve for one year —>
+<!— The remaining positions serve for one year —>
 - Men's Coach:              Austin Bixler
 - Women's Coach:            No candidates. Board will attempt to fill position in January.
 - Novice Coach:             Andrew Wilkening & Bob Teaford
