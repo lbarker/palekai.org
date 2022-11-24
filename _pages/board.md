@@ -18,7 +18,7 @@ Thank you to the board members who selflessly volunteer their time and talent be
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
 - Sponsorship/Fundraising:  Kim Lillywhite
-- Communications:           Kristen Sanchez
+- Communications:           Flo Bee
 - SCORA Rep:                Dave Degroot & Sarah Donahue
 - Head Coach:               Scott Bixler
 - Men's Coach:              Tom Needham & Patrick Lyons
