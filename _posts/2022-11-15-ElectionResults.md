@@ -11,13 +11,13 @@ The following individuals have been elected to serve as PKO Board Members and Of
 -----------------------------
 - President:                No candidates. Current VP (Mike Traynor) will serve.
 <!--  
-The following five positions serve for two years and are up for election in odd-numbered years. 
-- Vice President:           Mike Traynor
-- Secretary:                Brenda Breslin
-- Equipment Coordinator:    Chris Wertz
-- Transportation:           Bob Teaford
-- Communications:           Kristen Sanchez
---> 
+The following five positions serve for two years and are up for election in odd-numbered years.
+-->
+<!-- - Vice President:           Mike Traynor -->
+<!-- - Secretary:                Brenda Breslin -->
+<!-- - Equipment Coordinator:    Chris Wertz -->
+<!-- - Transportation:           Bob Teaford -->
+<!-- - Communications:           Kristen Sanchez -->
 <!--
  The next six positions serve for two years and are up for election in even-numbered years.
 -->
