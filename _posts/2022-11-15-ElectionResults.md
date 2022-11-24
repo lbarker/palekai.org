@@ -10,16 +10,16 @@ image: assets/images/board-meeting-2.jpg
 The following individuals have been elected to serve as PKO Board Members and Officers for 2023:
 -----------------------------
 - President:                No candidates. Current VP (Mike Traynor) will serve.
-<!--
+<!--  
 The following five positions serve for two years and are up for election in odd-numbered years. 
 - Vice President:           Mike Traynor
 - Secretary:                Brenda Breslin
 - Equipment Coordinator:    Chris Wertz
 - Transportation:           Bob Teaford
 - Communications:           Kristen Sanchez
--->
+--> 
 <!--
- The next six positions serve for two years and are only up for election in even-numbered years.
+ The next six positions serve for two years and are up for election in even-numbered years.
 -->
 - Treasurer:                Stephanie Tran
 - Events Coordinator:       Aggie Arvizu & Jenny Beck
