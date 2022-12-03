@@ -8,38 +8,46 @@ permalink: /recruitment-program/
 redirect_from:
   - /joinus/
 ---
-<h2>2022 Recruitment Program</h2>
-
-<p>The 2022 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
-<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
-<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+<h2>2023 Recruitment Program</h2>
 
 <!--
-<h4>Demo Days in Morro Bay - January and February 2022</h4>
+<p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 5th in Morro Bay</strong>.</p>
+<p>If you didn't make it to the Recruitment Program this year but still plan on join PKO for 2022, then register now!</p>
+<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+-->
 
-<p>Pale Kai will be offering Saturday demonstration and recruitment sessions in Morro Bay to get you in a canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+<h4>Demo Days in Morro Bay - January and February 2023</h4>
 
-<p>Sign up below for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+<p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
+canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+
+<p>Click below to register for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 22, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Jan 14, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 12, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Jan 28, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 26, 2022</td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/go/409044bafa82ca2f85-pale" target="_blank">10am to 12pm</a></td>
+						<td>Feb 11, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
+					</tr>
+					<tr>
+						<td>Feb 25, 2023</td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 				</tbody>
@@ -84,7 +92,6 @@ Pale Kai members.
 </p>
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
--->
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -101,8 +108,9 @@ participate in:
 </ul>
 
 <!--<hr class="major" />-->
-
+<!-- Commenting out Registration link until Registration opens up
 <p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
+-->
 
 <h2>Novice Year Overview</h2>
 
