@@ -32,20 +32,18 @@ Molokai Hoe; six Pailolo challenges, and three Queen Liliuokalani races.
 
 ## Austin Bixler
 ### Men's Coach
-<!--
-<img src="/assets/images/bio/PatrickL_2022.jpg"  class="headshot" />
+<img src="/assets/images/bio/AustinB_2023.jpg"  class="headshot" />
 <p>
-BIO TBD
+Austin's passion for paddling began in 2009. Paddling and racing in every seat has offered a unique perspective on the challenges presented in every seat as well as what makes a boat run fast. Almost exclusively steering for the past 2 years has provoked a greater understanding of what it takes to win and how to mentor a crew into being the best they can collectively be. Boasting a top 10 overall finish last year in a SCORA Iron race is just the tip of the iceberg. The focus for this year’s Men’s team will consist of: individual duties with collective, synchronized response. That combined with surf, endurance, steering, and efficiency training will make us a force to be reckoned with.
 </p>
--->
 
 <!-- Put some space between bios. -->
 <div class="clear"></div><br>
 
 ## Patrick Lyons
 ### Womens Coach
+<img src="/assets/images/bio/PatL_2023.jpg"  class="headshot" />
 <!--
-<img src="/assets/images/bio/bonni.jpg"  class="headshot" />
 -->
 
 <!-- Put some space between bios. -->
