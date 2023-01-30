@@ -12,7 +12,7 @@ Thank you to the board members who selflessly volunteer their time and talent be
 - President:                Mike Traynor
 - Vice President:           Marianne Zawadzki
 - Secretary:                Brenda Breslin
-- Treasurer:                Stephanie Currier
+- Treasurer:                Stephanie Tran
 - Events Coordinator:       Aggie Arvizu & Jenny Beck
 - Membership:               Katherine Nilbrink & Cindy Vormbaum
 - Equipment Coordinator:    Chris Wertz
