@@ -10,12 +10,16 @@ redirect_from:
 ---
 <h2>Annual Recruitment Program</h2>
 
-<!--
 <p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 4th in Morro Bay</strong>.</p>
-<p>If you didn't make it to a Demo Day this year but still plan on join PKO for 2022, then register now!</p>
-<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
--->
 
+<p>If you didn't make it to a Demo Day this year but would still like to join PKO for 2023, then register now!</p>
+<a href="/members/registration/" target="_blank" class="button">Member Registration</a>
+
+<p>Click <a href="/programs/open/" target="_blank">here</a> to see the general practice schedule</p>
+
+<p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
+
+<!--
 <h4>Demo Days in Morro Bay - January and February</h4>
 
 <p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
@@ -58,7 +62,11 @@ canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
+-->
+
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
+
+<!--
 
 <h2>What to Bring</h2>
 <p>
@@ -94,6 +102,9 @@ Pale Kai members.
 </p>
 
 For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
+
+-->
+
 
 <h2>Novice Year Participation</h2>
 <p>
