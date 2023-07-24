@@ -44,10 +44,7 @@ Schedule of Events:<br>
 <li>Beach Chair or Blanket</li>
 <li>Change of Clothes (if you plan to paddle)</li>
 <li>Layers (it can be chilly in the mornings and evenings)</li>
-<li>BYOB*</li>
 </ul>
-
-<p>* The consumption of alcoholic beverages is prohibited on the beach, if you choose to imbibe, please be discrete.</p>
 
 <h3>Good to Know</h3>
 <ul>
