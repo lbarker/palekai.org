@@ -66,7 +66,7 @@ So that we may plan accordingly, we ask that you <a href="https://forms.gle/DmC6
 class="button special">RSVP</a>
 </p>
 
-<p>Note: OC6 seats are likely to be limited. Please consider bringing your own paddlecraft.</p>
+<p>Note: OC6 seats are likely to be limited. Please consider bringing your own paddlecraft. </p>
 
 <h3>Obituary</h3>
 <p>It is with great sadness to share that Kimberly tragically passed away on July 16, 2023 as a result of injuries sustained in a

@@ -55,3 +55,6 @@ collections:
   products:
     output: true
 
+gems:
+    - jekyll-seo-tag
+ 
