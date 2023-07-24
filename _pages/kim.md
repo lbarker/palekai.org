@@ -75,4 +75,4 @@ white water rafting accident.
 <p>Kim's love of the outdoors, competition, and sport was matched only by her love for her family. Her fun and adventurous spirit 
 touched the lives of many...</p>
 
-<p><a target="_blank" href="https://www.legacy.com/us/obituaries/name/kimberly-lillywhite-obituary?id=52524752">See full obituary.</a></p>
+<p><a target="_blank" href="https://www.legacy.com/us/obituaries/name/kimberly-lillywhite-obituary?id=52524752">See full obituary...</a></p>
