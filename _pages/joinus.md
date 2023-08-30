@@ -4,9 +4,9 @@ title: Recruitment Program
 description: Information about our recruitment program and joining Pale Kai Outrigger
 date: today
 image: assets/images/2019-recruitment-background.jpg
-permalink: /recruitment-program/
+permalink: /joinus/
 redirect_from:
-  - /joinus/
+  - /recruitment-program/
 ---
 <h2>Annual Recruitment Program</h2>
 

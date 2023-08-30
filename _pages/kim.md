@@ -4,7 +4,7 @@ title: Memorial Paddle-Out for Kim Lillywhite
 description: 
 image: assets/images/Kim-Lillywhite-Paddleout.png
 permalink: /kim/
-feature: true
+feature: false
 ---
 
 <b>Aloha O'hana.</b> On July 16th, 2023, Pale Kai and the entire paddling community lost a beloved member of our ohana. Pale Kai Outrigger Canoe Club
