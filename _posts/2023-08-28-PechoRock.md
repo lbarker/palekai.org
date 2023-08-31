@@ -22,57 +22,45 @@ Note that, while the this event is open to the public, for liability reasons, on
 in the plate lunch. The public is invited to observe the events, participate in the raffle and auction, and generally mingle with the paddlers.
 <p>
 
-<h2>Location</h2>
-The main event will be held at <a href="https://goo.gl/maps/VLFRQMEQFwvGvdTX7" target="_blank">599 Front Street, Avila Beach, California</a>. Look for the
-Pale Kai flutter flags.
-<p>
-<h2>Schedule of Events (subject to change)</h2>
+<style type="text/css">
+<!--
+ .tab0 { margin-left: 0px; margin-top: 0px; margin-bottom: 0px }
+ .tab1 { margin-left: 40px; margin-top: 0px; }
+-->
+</style>
 
-<table>
-    <tr><td>8:30am</td><td>Opening Ceremony</td></tr>
-    <tr><td>8:40am</td><td>Steers meeting and boat and crew assignments</td></tr>
-    <tr><td>9:00am</td><td>Short course and keiki participants launch; raffle opens</td></tr>
-    <tr><td>10:00am</td><td>Long course participants launch</td></tr>
-    <tr><td>12:00pm</td><td>Hawaiian-themed plate lunch</td></tr>
-    <tr><td>1:00pm</td><td>Raffle closes; Entertainment and beach games</td></tr>
-    <tr><td>2:00pm</td><td>Raffle and auction winners announced</td></tr>
-</table>
-    
-<h2>Raffle Info</h2>
+<h2>Event Details</h2>
+
+<p class="tab0">Location: <a href="https://goo.gl/maps/VLFRQMEQFwvGvdTX7" target="_blank">599 Front Street, Avila Beach, California</a>. Look for the Pale Kai flutter flags!<br><br>
+Schedule of Events (subject to change):<br>
+<p class="tab1">
+    8:30am: Opening Ceremony<br>
+    8:40am: Steers meeting and boat and crew assignments<br>
+    9:00am: Short course and keiki participants launch; raffle opens<br>
+    10:00am: Long course participants launch<br>
+    12:00pm: Hawaiian-themed plate lunch<br>
+    1:00pm: Raffle closes; entertainment and beach games<br>
+    2:00pm: Raffle and auction winners announced<br>
+</p>
+
+<h3>Raffle</h3>
 
 We have tons of great prizes including: An outrigger paddle, cool gear, hotel stays, wine, and more. PKO cannot store or ship
-your prizes. If you must leave before the prizes are announced, please designate a friend of family member to collect your booty.
-<p>
+your prizes. If you must leave before the prizes are announced, please designate a friend or family member to collect your booty.
+Unclaimed prizes will be re-raffled.<br><br>
+<p class="tab0">
 Ticket pricing:
+<p class="tab1">
+    $20: 4 tickets<br>
+    $40: 10 tickets<br>
+    $80: 25 tickets<br>
+    $100: 35 tickets<br>
+</p>
 <p>
-<table>
-    <tr><td>$20</td><td>4 tickets</td></tr>
-    <tr><td>$40</td><td>10 tickets</td></tr>
-    <tr><td>$80</td><td>25 tickets</td></tr>
-    <tr><td>$100</td><td>35 tickets</td></tr>
-</table>
+We encourage raffle participant to purchase their tickets in advance by September 20th. This allows us to prepackage your tickets.
+To pre-purchase your tickets, Venmo @PKO-StephTran by September 20th and specify the number of tickets you wish to receive.
 
-<h2>Lunch Info</h2>
-
-Invited guests and their families may opt for a Hawaiian-themed plate lunch. Think Kalua pork, King rolls, mac salad, and more. Lunch
-is priced at $15 per serving with advance purchase and $20 at the event (subject to availability).
-<p>
-
-<h2>Advance Purchases</h2>
-We encourage you to purchase raffle tickets and your plate lunch in advance by September 20th. Venmo: @PKO-StephTran
-<p>
-
-<h2>Course Info (subject to conditions)</h2>
-<a href="/assets/images/2023 PechoExhibition/pechoCourse.png" target="_blank">Click here to see a map.</a>
-<p>
-<table>
-<tr><td>Short Course (about 6 miles)</td>
-    <td>Avila Beach southwest to the end of the breakwater, then northeast to White Rock, then northwest back to Avila Beach.</td></tr>
-<tr><td>Long Course (about 12 miles)</td>
-    <td>Avila Beach southwest to the end of the breakwater, then northwest to Pecho Rock, then return to Avila Beach.</td></tr>
-</table>
-<p>
-<h2>Where to Stay</h2>
+<h3>Where to Stay</h3>
 <ul>
     <li>Avila Lighthouse Suites</li>
     <li>Avila Village Inn</li>
@@ -86,24 +74,64 @@ There are also a variety of RV and tent camping options in and around Avila Beac
 For additional information on lodging, dining and other attractions and activities, go to <a href="https://visitavilabeach.com/" target="_blank">visitavilabeach.com</a>.
 
 <h2>Additional Information for Paddlers</h2>
+<p>
+<h3>Lunch</h3>
+<p>
+Invited guests and their families may opt for a Hawaiian-themed plate lunch. Think Kalua Pork, King's rolls, mac salad, and more. Lunch
+is priced at $15 per serving with advance purchase (payment info below) and $20 at the event (subject to availability).
+<p>
+To pre-purchase and reserve your plate lunch, please Venmo your payment to @PKO-StephTran by September 20th and specify the number
+of lunches you're purchasing.
+<p>
+
+<h3>RSVP</h3>
+To ensure availability of canoe seats, all OC6 paddlers are asked to <a href="https://forms.gle/BHFC5sqZcf2nMhag9" target="_blank" class="button special">RSVP</a> by September 20th.
+
+<h3>Course (subject to conditions)</h3>
+<a href="/assets/images/2023 PechoExhibition/pechoCourse.png" target="_blank">Click here for a map.</a>
+<p>
+<table>
+<tr><td>Short Course (about 6 miles)</td>
+    <td>Avila Beach southwest to the end of the breakwater, then northeast to White Rock, then northwest back to Avila Beach.</td></tr>
+<tr><td>Long Course (about 12 miles)</td>
+    <td>Avila Beach southwest to the end of the breakwater, then northwest to Pecho Rock, then return to Avila Beach.</td></tr>
+</table>
+<p>
+<h3>Additional Information for our Guests</h3>
 <ul>
     <li>
-We request that anyone who intends to paddle, especially OC6, <a href="https://forms.gle/BHFC5sqZcf2nMhag9" target="_blank" class="button special">RSVP</a> This will allow us to get an approximate headcount and, possibly, pre-assign crews.
+        Good to Know
+        <ul>
+            <li>Free street parking (but it fills up fast!)</li>
+            <li>Paid Parking at <a target="_blank" href="https://goo.gl/maps/ST3diTTBTZkddoby9">502 1st St</a></li>
+            <li>We do not charge seat fees for this event. In lieu of seat fees, we hope you'll participate in the raffle</li>
+            <li>
+                All paddlers will be required to have a current SCORA waiver on file with SCORA or with PKO. If you don't have a current waiver
+                on file, save yourself a few minutes by downloading and printing the waiver <a href="/assets/images/2023 PechoExhibition/2023-SCORA-Liability-Waiver.pdf" target="_blank">HERE</a>
+            </li>
+            <li>Dogs are not allowed on the beach; please make alternative arrangements your furry friends</li>
+        </ul>
     </li>
     <li>
-We also suggest pre-purchasing your plate lunch, as there will only be a limited number of extra meals available at the event.
+        Good to Bring
+        <ul>
+            <li>Reusable mess kit (to reduce waste)</li>
+            <li>Beach chair or blanket</li>
+            <li>Change of clothes (if you plan to paddle)</li>
+            <li>Layers (it can be chilly in the mornings and evenings)</li>
+        </ul>
     </li>
     <li>
-        We kindly ask that you participate in the raffel in lieu of seat fees.
-    </li>
-    <li>
-All paddlers will be required to have a current SCORA waiver on file with SCORA or with PKO. If you don't have a current waiver
-on file, save yourself a few minutes by downloading and printing the waiver <a href="/assets/images/2023 PechoExhibition/2023-SCORA-Liability-Waiver.pdf" target="_blank">HERE</a>.
-    </li>
-    <li>
-        We have a limited amount of space for trailers. If you intend to tow your canoes, please coordinate with Coach Scott: 805-234-3870 or scottebix@gmail.com.
+        Coaches
+        <ul>
+            <li>
+                We have a limited amount of space for trailers. If you intend to tow your canoes, please coordinate with Coach Scott: 805-234-3870 or scottebix@gmail.com.
+            </li>
+        </ul>
     </li>
 </ul>
+
+<p>If you have questions, contact <a href="mailto:palekaioutrigger@gmail.com">palekaioutrigger@gmail.com</a>.
 
 <!--
 We especially want to thank our sponsors and donors who so generously donated to our raffle and silent auction:
