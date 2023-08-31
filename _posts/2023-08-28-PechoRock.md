@@ -22,6 +22,10 @@ Note that, while the this event is open to the public, for liability reasons, on
 in the plate lunch. The public is invited to observe the events, participate in the raffle and auction, and generally mingle with the paddlers.
 <p>
 
+<h2>Location</h2>
+The main event will be held at <a href="https://goo.gl/maps/VLFRQMEQFwvGvdTX7" target="_blank">599 Front Street, Avila Beach, California</a>. Look for the
+Pale Kai flutter flags.
+<p>
 <h2>Schedule of Events (subject to change)</h2>
 
 <table>
@@ -30,13 +34,15 @@ in the plate lunch. The public is invited to observe the events, participate in 
     <tr><td>9:00am</td><td>Short course and keiki participants launch; raffle opens</td></tr>
     <tr><td>10:00am</td><td>Long course participants launch</td></tr>
     <tr><td>12:00pm</td><td>Hawaiian-themed plate lunch</td></tr>
-    <tr><td>1:00pm</td><td>Entertainment and beach games</td></tr>
-    <tr><td>2:00pm</td><td>Raffle closes & winners announced</td></tr>
+    <tr><td>1:00pm</td><td>Raffle closes; Entertainment and beach games</td></tr>
+    <tr><td>2:00pm</td><td>Raffle and auction winners announced</td></tr>
 </table>
     
 <h2>Raffle Info</h2>
 
-We have tons of great prizes including: An outrigger paddle, cool gear, hotel stays, wine, and more. You need not be present to win.
+We have tons of great prizes including: An outrigger paddle, cool gear, hotel stays, wine, and more. PKO cannot store or ship
+your prizes. If you must leave before the prizes are announced, please designate a friend of family member to collect your booty.
+<p>
 Ticket pricing:
 <p>
 <table>
@@ -53,7 +59,7 @@ is priced at $15 per serving with advance purchase and $20 at the event (subject
 <p>
 
 <h2>Advance Purchases</h2>
-We encourage you to purchase raffle tickets and your plate lunch in advance. Venmo: @PKO-StephTran
+We encourage you to purchase raffle tickets and your plate lunch in advance by September 20th. Venmo: @PKO-StephTran
 <p>
 
 <h2>Course Info (subject to conditions)</h2>
@@ -66,6 +72,19 @@ We encourage you to purchase raffle tickets and your plate lunch in advance. Ven
     <td>Avila Beach southwest to the end of the breakwater, then northwest to Pecho Rock, then return to Avila Beach.</td></tr>
 </table>
 <p>
+<h2>Where to Stay</h2>
+<ul>
+    <li>Avila Lighthouse Suites</li>
+    <li>Avila Village Inn</li>
+    <li>Inn at Avila Beach</li>
+    <li>San Luis Bay Inn</li>
+    <li>Sycamore Mineral Springs & Resort</li>
+</ul>
+<p>
+There are also a variety of RV and tent camping options in and around Avila Beach.
+<p>
+For additional information on lodging, dining and other attractions and activities, go to <a href="https://visitavilabeach.com/" target="_blank">visitavilabeach.com</a>.
+
 <h2>Additional Information for Paddlers</h2>
 <ul>
     <li>
@@ -75,11 +94,14 @@ We request that anyone who intends to paddle, especially OC6, <a href="https://f
 We also suggest pre-purchasing your plate lunch, as there will only be a limited number of extra meals available at the event.
     </li>
     <li>
+        We kindly ask that you participate in the raffel in lieu of seat fees.
+    </li>
+    <li>
 All paddlers will be required to have a current SCORA waiver on file with SCORA or with PKO. If you don't have a current waiver
 on file, save yourself a few minutes by downloading and printing the waiver <a href="/assets/images/2023 PechoExhibition/2023-SCORA-Liability-Waiver.pdf" target="_blank">HERE</a>.
     </li>
     <li>
-        We have a limited amount of space for trailers. If you intend to tow your canoes, please coordinate with Coach Scott: 805-234-3870.
+        We have a limited amount of space for trailers. If you intend to tow your canoes, please coordinate with Coach Scott: 805-234-3870 or scottebix@gmail.com.
     </li>
 </ul>
 
