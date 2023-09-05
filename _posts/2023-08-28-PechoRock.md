@@ -12,14 +12,14 @@ image: assets/images/2023 PechoExhibition/2023PechoExhibitionPosterSmall.png
 
 On Saturday, September 23rd, Pale Kai Outrigger and the Avila Beach Tourism Alliance will celebrate the end of our race season
 with an Outrigger Canoe Exhibition - An
-opportunity for Pale Kai, select guest clubs and paddlers, and their families to join us for an informal paddle, raffle, silent auction, and
-luau on the beautiful Central Coast.
+opportunity for Pale Kai, members of select guest clubs, and experienced paddlers, to join us for an informal paddle. The paddle
+will be followed by a raffle, silent auction, and luau on the beautiful Central Coast.
 <p>
 For Pale Kai, this is not only a time to celebrate with our friends, families, and peer clubs, it's also our primary fundraiser.
 This year, we plan to donate a portion of our proceeds to aid victims of the fires in Maui.
 <P>
-Note that, while the this event is open to the public, for liability reasons, only invited guests and their families will be allowed to paddle or to participate
-in the plate lunch. The public is invited to observe the events, participate in the raffle and auction, and generally mingle with the paddlers.
+Note that, while the this event is open to the public, for liability reasons, only experienced paddlers be allowed on the water and
+the plate lunch is restricted to paddlers and their families. The public is invited to observe the events, participate in the raffle and auction, and generally mingle with the paddlers.
 <p>
 
 <style type="text/css">
@@ -45,7 +45,8 @@ Schedule of Events (subject to change):<br>
 
 <h3>Raffle</h3>
 
-We have tons of great prizes including: An outrigger paddle, cool gear, hotel stays, wine, and more. PKO cannot store or ship
+We have tons of great prizes including: An outrigger paddle, cool gear, hotel stays, wine and complimentary wine tastings,
+gift certifcates, Warriors tickets, artwork, and more. PKO cannot store or ship
 your prizes. If you must leave before the prizes are announced, please designate a friend or family member to collect your booty.
 Unclaimed prizes will be re-raffled.<br><br>
 <p class="tab0">
@@ -77,7 +78,7 @@ For additional information on lodging, dining and other attractions and activiti
 <p>
 <h3>Lunch</h3>
 <p>
-Invited guests and their families may opt for a Hawaiian-themed plate lunch. Think Kalua Pork, King's rolls, mac salad, and more. Lunch
+Paddlers and their families may opt for a Hawaiian-themed plate lunch. Think Kalua Pork, King's rolls, mac salad, and more. Lunch
 is priced at $15 per serving with advance purchase (payment info below) and $20 at the event (subject to availability).
 <p>
 To pre-purchase and reserve your plate lunch, please Venmo your payment to @PKO-StephTran by September 20th and specify the number
