@@ -61,7 +61,7 @@ Ticket pricing:
 We encourage raffle participant to purchase their tickets in advance by September 20th. This allows us to prepackage your tickets.
 To pre-purchase your tickets, Venmo @PKO-StephTran by September 20th and specify the number of tickets you wish to receive.
 
-<h3>Where to Stay and Eat</h3>
+<h3>Where to Stay and Eat </h3>
 <p>
 For information on lodging, dining and other attractions and activities in Avila Beach, go to <a href="https://visitavilabeach.com/" target="_blank">visitavilabeach.com</a>.
 
