@@ -61,18 +61,9 @@ Ticket pricing:
 We encourage raffle participant to purchase their tickets in advance by September 20th. This allows us to prepackage your tickets.
 To pre-purchase your tickets, Venmo @PKO-StephTran by September 20th and specify the number of tickets you wish to receive.
 
-<h3>Where to Stay</h3>
-<ul>
-    <li>Avila Lighthouse Suites</li>
-    <li>Avila Village Inn</li>
-    <li>Inn at Avila Beach</li>
-    <li>San Luis Bay Inn</li>
-    <li>Sycamore Mineral Springs & Resort</li>
-</ul>
+<h3>Where to Stay and Eat</h3>
 <p>
-There are also a variety of RV and tent camping options in and around Avila Beach.
-<p>
-For additional information on lodging, dining and other attractions and activities, go to <a href="https://visitavilabeach.com/" target="_blank">visitavilabeach.com</a>.
+For information on lodging, dining and other attractions and activities in Avila Beach, go to <a href="https://visitavilabeach.com/" target="_blank">visitavilabeach.com</a>.
 
 <h2>Additional Information for Paddlers</h2>
 <p>
