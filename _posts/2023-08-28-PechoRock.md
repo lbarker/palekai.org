@@ -18,9 +18,10 @@ will be followed by a raffle, silent auction, and luau on the beautiful Central 
 For Pale Kai, this is not only a time to celebrate with our friends, families, and peer clubs, it's also our primary fundraiser.
 This year, we plan to donate a portion of our proceeds to aid victims of the fires in Maui.
 <P>
-Note that, while the this event is open to the public, for liability reasons, only experienced paddlers be allowed on the water and
+Note that, while the this event is open to the public, for liability reasons, only experienced paddlers will be allowed on the water and
 the plate lunch is restricted to paddlers and their families. The public is invited to observe the events, participate in the raffle and auction, and generally mingle with the paddlers.
 <p>
+If you're an experienced paddler and you plan to paddle with us, please <a href="https://forms.gle/BHFC5sqZcf2nMhag9" target="_blank" class="button special">RSVP</a> by September 20th.
 
 <style type="text/css">
 <!--
@@ -84,9 +85,9 @@ To ensure availability of canoe seats, all OC6 paddlers are asked to <a href="ht
 <p>
 <table>
 <tr><td>Short Course (about 6 miles)</td>
-    <td>Avila Beach southwest to the end of the breakwater, then northeast to White Rock, then northwest back to Avila Beach.</td></tr>
+    <td>Avila Beach southwest to green can #3 (just outside the breakwater); left turn around green can #3; northeast to White Rock; left turn around White Rock; then northwest back to Avila Beach.</td></tr>
 <tr><td>Long Course (about 12 miles)</td>
-    <td>Avila Beach southwest to the end of the breakwater, then northwest to Pecho Rock, then return to Avila Beach.</td></tr>
+    <td>Avila Beach southwest to the end of the breakwater; turn right and head northwest to Pecho Rock; left turn around Pecho Rock; then return to Avila Beach.</td></tr>
 </table>
 <p>
 <h3>Additional Information for our Guests</h3>
