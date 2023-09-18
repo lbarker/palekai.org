@@ -10,6 +10,7 @@ redirect_from:
 ---
 <h2>Annual Recruitment Program</h2>
 
+<!--
 <p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 4th in Morro Bay</strong>.</p>
 
 <p>If you didn't make it to a Demo Day this year but would still like to join PKO for 2023, then register now!</p>
@@ -18,38 +19,46 @@ redirect_from:
 <p>Click <a href="/programs/open/" target="_blank">here</a> to see the general practice schedule</p>
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
+-->
 
-<!--
+
 <h4>Demo Days in Morro Bay - January and February</h4>
 
-<p>Pale Kai will be offering Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
+<p>Pale Kai will be offering FREE Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
-<p>Click below to register for your FREE paddling session. All equipment and instruction is provided. Q&A to follow!</p>
+<p>Subject to weather conditions, demonstration sessions will be held at 8am and at 10am on January 13, January 27, February 10 and
+February 24. Additional sessions may be added if necessary.
+
+<p>We will begin accepting reservations on October 1st. Check back here to reserve your seat.
+
+<!--
+
+<p>Click below to register for your paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 <div class="table-wrapper">
 			<table class="alt">
 				<tbody>
 					<tr>
-						<td>Jan 14, 2023</td>
+						<td>Jan 13</td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Jan 28, 2023</td>
+						<td>Jan 27</td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 11, 2023</td>
+						<td>Feb 10</td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
-						<td>Feb 25, 2023</td>
+						<td>Feb 24</td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
 						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
@@ -60,13 +69,13 @@ canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
 <P><I>Note that this schedule is subject to change. Please register via the links above to be notified of last-minute changes.</I></p>
 
+-->
+
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
--->
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
 
-<!--
 
 <h2>What to Bring</h2>
 <p>
@@ -101,10 +110,7 @@ canoe, and basic safety information. We will then go for a paddle around beautif
 Pale Kai members.
 </p>
 
-For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
-
--->
-
+<p>For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
 <h2>Novice Year Participation</h2>
 <p>
@@ -120,8 +126,9 @@ participate in:
 <li>Others as interest and need arises</li>
 </ul>
 
-<!-- <hr class="major" /> -->
-<p><a href="/members/registration/" class="button">Sign Me Up For the Year!</a></p>
+<!--
+<p><a href="/members/registration/" class="button" target="_blank">Sign Me Up For the Year!</a></p>
+-->
 
 <h2>Novice Year Overview</h2>
 
@@ -153,10 +160,19 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June or early-July.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
 
-<p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
-
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
+
+<p>6-Person Iron Race Schedule:
+<ul>
+    <li>Crystal Pier (San Diego): May 11, 2024</li>
+    <li>Rig Run (Santa Barbara): May 18, 2024</li>
+    <li>Kamanahoku Klassic (Marina Del Rey) : June 1, 2024</li>
+    <li>Ventura Challenge (Ventura): June 8, 2024</li>
+    <li>Kahakai Challenge (Long Beach): June 15, 2024</li>
+    <li>Iron Champs (San Diego) : June 22, 2024</li>
+</ul>
+
 <h4>August-September: 9-Man Season</h4>
 <p>
 9-person races involve crews of up to 9 paddlers. While 6 paddlers paddle the canoe, the remaining paddlers take a break on a 
@@ -175,6 +191,17 @@ season. And, of course, all members are welcome to practice year round.
     on Saturday and the men race back on Sunday. 
     <!--Here's the drone footage of the women and coed crews leaving Newport.-->
 </p>
+
+<!--
+<p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
+-->
+
+<p>9-Person Race Schedule:
+<ul>
+    <li>Whitey Harrison 9-Man (Dana Point) : Aug. 10, 2024</li>
+    <li>Paopao 9-Man (Oceanside): Aug. 24, 2024</li>
+    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : Sept. 7 & 8, 2024</li>
+</ul>
 
 <!-- Video no longer available
 
