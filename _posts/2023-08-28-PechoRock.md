@@ -36,9 +36,10 @@ If you're an experienced paddler and you plan to paddle with us, please <a href=
 Schedule of Events (subject to change):<br>
 <p class="tab1">
     8:30am: Opening Ceremony<br>
-    8:40am: Steers meeting and boat and crew assignments<br>
+    8:40am: Short course steers meeting and canoe and crew assignments<br>
     9:00am: Short course and keiki participants launch; raffle opens<br>
-    10:00am: Long course participants launch<br>
+    10:00am: Long course steers meeting and canoe and crew assignments<br>
+    10:30am: Long course participants launch<br>
     12:00pm: Hawaiian-themed plate lunch<br>
     1:00pm: Raffle closes; entertainment and beach games<br>
     2:00pm: Raffle and auction winners announced<br>
@@ -87,7 +88,7 @@ To ensure availability of canoe seats, all OC6 paddlers are asked to <a href="ht
 <tr><td>Short Course (about 6 miles)</td>
     <td>Avila Beach southwest to green can #3 (just outside the breakwater); left turn around green can #3; northeast to White Rock; left turn around White Rock; then northwest back to Avila Beach.</td></tr>
 <tr><td>Long Course (about 12 miles)</td>
-    <td>Avila Beach southwest to the end of the breakwater; turn right and head northwest to Pecho Rock; left turn around Pecho Rock; then return to Avila Beach.</td></tr>
+    <td>Avila Beach southwest to green can #3 (just outside the breakwater); right turn araound green can #3; northwest to Pecho Rock; left turn around Pecho Rock; then reverse course and return to Avila Beach (including a left turn around can #3.</td></tr>
 </table>
 <p>
 <h3>Additional Information for our Guests</h3>
