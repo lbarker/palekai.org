@@ -30,9 +30,9 @@ canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 <p>Subject to weather conditions, demonstration sessions will be held at 8am and at 10am on January 13, January 27, February 10 and
 February 24. Additional sessions may be added if necessary.
 
-<p>We will begin accepting reservations on October 1st. Check back here to reserve your seat.
-
 <!--
+<p>We will begin accepting reservations on October 1st. Check back here to reserve your seat.
+-->
 
 <p>Click below to register for your paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
@@ -41,26 +41,26 @@ February 24. Additional sessions may be added if necessary.
 				<tbody>
 					<tr>
 						<td>Jan 13</td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
-						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87">Coleman Park, Morro Bay</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
 						<td>Jan 27</td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
 						<td>Feb 10</td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 					<tr>
 						<td>Feb 24</td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">8am to 10am</a></td>
-						<td><a href="https://www.signupgenius.com/index.cfm?go=s.signup&urlid=409044bafa82ca2f85-pale1&view=standard" target="_blank">10am to 12pm</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">8am to 10am</a></td>
+						<td><a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-44805125-pale#" target="_blank">10am to 12pm</a></td>
 						<td><a href="https://goo.gl/maps/bcRNk7TNnyKY69u87" target="_blank">Coleman Park, Morro Bay</a></td>
 					</tr>
 				</tbody>
@@ -68,8 +68,6 @@ February 24. Additional sessions may be added if necessary.
 </div>
 
 <P><I>Note that this schedule is subject to change. Please register via the links above to be notified of last-minute changes.</I></p>
-
--->
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
@@ -119,7 +117,7 @@ participate in:
 <ul>
 <li>Roadside Cleanup (PKO is responsible for a mile stretch of Avila Beach Drive)</li>
 <li>Beach Cleanup and Beautification</li>
-<li>Any and All PKO Events</li>
+<li>Any and All PKO Events including races, start-of-season and end-of-season celebrations, fundraisers, and more</li>
 <li>Equipment Maintenance</li>
 <li>Community Outreach</li>
 <li>Volunteering</li>
