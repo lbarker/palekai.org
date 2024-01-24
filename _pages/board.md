@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Pale Kai Outrigger Canoe Club Board Members
+title: Pale Kai Outrigger Canoe Club Officers
 description: PKO Board and Elected Officials
 feature: false
 permalink: /board/
 
 ---
 
-Thank you to the board members who selflessly volunteer their time and talent behind the scenes to keep this club operating smoothly:
+Thank you to the board members and officers who selflessly volunteer their time and talent behind the scenes to keep this club operating smoothly:
 
 - President:                Mike Traynor
 - Vice President:           Cindy Holton
