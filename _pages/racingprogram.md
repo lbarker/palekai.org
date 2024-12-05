@@ -51,7 +51,7 @@ redirect_from:
 </i></p>
 
 <p><i>
-    Note: There will be no weekday practices prior to the start of Daylight Savings Time (March 12).
+    Note: Weeknight practices are limited to daylight savings time (i.e., no weeknight practices during standard time).
 </i></p>
 
 <div class="table-wrapper">
@@ -124,6 +124,7 @@ redirect_from:
                     Avila Beach
                 </td>
 			</tr>
+            <!--
             <tr>
 				<td>Alumni</td>
 				<td>
@@ -141,6 +142,7 @@ redirect_from:
 				<td>
                 </td>
 			</tr>
+            -->
 		</tbody>
 		<tfoot>
 			<tr>
