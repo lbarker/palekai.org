@@ -24,16 +24,23 @@ redirect_from:
 
 <h4>Demo Days in Morro Bay - January and February</h4>
 
-<p>Pale Kai will be offering FREE Saturday morning demonstration and recruitment sessions at Coleman Beach in Morro Bay to get you in a
+<p>Pale Kai will be offering FREE* Sunday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
-<p>Subject to weather conditions, demonstration sessions will be held at 8am and at 10am on January 13, January 27, February 10 and
-February 24. Additional sessions may be added if necessary.
+<p>Subject to weather conditions, demonstration sessions will be held at 9am every Sunday, beginning January 12 and continuing
+through the end of February. No need to make a reservation - just drop by Coleman Beach around 9am and we'll find you a seat.</p>
+
+<p><i>
+    * Pale Kai offers a "Three for Free" policy to allow newcomers to experience outrigger paddling without paying a fee or 
+    membership dues. Should a guest wish to continue paddling through the end of February, they'll be asked to make a small non-refundable
+    contribution to the club. That contribution will be applied to their annual dues should they choose to join Pale Kai in March.
+</i></p>
 
 <!--
 <p>We will begin accepting reservations on October 1st. Check back here to reserve your seat.
 -->
 
+<!--
 <p>Click below to register for your paddling session. All equipment and instruction is provided. Q&A to follow!</p>
 
 <div class="table-wrapper">
@@ -69,6 +76,8 @@ February 24. Additional sessions may be added if necessary.
 
 <P><I>Note that this schedule is subject to change. Please register via the links above to be notified of last-minute changes.</I></p>
 
+-->
+
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
 
@@ -81,7 +90,7 @@ February 24. Additional sessions may be added if necessary.
     The air may be chilly but you will warm up once we start paddling.
     We recommend dressing in warm, water-wicking layers. Synthetic and wool fabrics are preferred while on the water 
     as these will keep you warm
-    even if they get wet. Cotton is fine before and after paddling, but should be avoided while paddling.
+    even if they get wet. Cotton is fine before and after paddling but should be avoided while paddling.
 </p>
 
 <h3>Suggested Attire</h3>
@@ -97,16 +106,18 @@ February 24. Additional sessions may be added if necessary.
 </ul>
 
 <p><i>
-    Note that all paddlers will be provided with a PFD (life preserver) which must be worn at all times until they have
-    completed a brief swim test.
+    Note that all guest paddlers will be required to wear a PFD (life preserver) while on the water until they have completed a brief swim test.
+    Guests are welcome to bring their own PFDs. Pale Kai will provide PFDs for guests who do not bring their own.
 </i></p>
 
 <h2>What to Expect</h2>
 <p>
 A Pale Kai coach will provide brief instructions on paddling technique, roles and responsibilities of the various positions in the
-canoe, and basic safety information. We will then go for a paddle around beautiful Morro Bay followed by a Q&A with
+canoe, and basic safety information. We will then go for a 45 to 60 minute paddle around beautiful Morro Bay followed by a Q&A with
 Pale Kai members.
 </p>
+
+<p>Pale Kai may provide light snacks and refreshments, but guests should arrive well-nourished and hydrated and ready for a workout.</p>
 
 <p>For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
 
@@ -155,7 +166,7 @@ huli drills (recovering from an overturned canoe), treading water, as well as a 
 
 <h4>May-June: Iron Race Season (6 person crews)</h4>
 <p>
-The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA, and our official events take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June or early-July.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
+The first official races begin in May.  Pale Kai is a member of the Southern California Outrigger Racing Association (SCORA).  We compete with other member clubs in SCORA. Our races take place between San Diego and Santa Barbara. The first five races take place from early May through the end of June or early-July.  In the novice division, races are approximately 4 to 5 miles and occur in more protected waters than the veteran divisions.   Iron races consist of 6 person crews over a set distance, and novice teams may race under men’s, women’s, or co-ed divisions.
 </p>
 
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
@@ -163,17 +174,17 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 
 <p>6-Person Iron Race Schedule:
 <ul>
-    <li>Crystal Pier (San Diego): May 11, 2024</li>
-    <li>Rig Run (Santa Barbara): May 18, 2024</li>
-    <li>Kamanahoku Klassic (Marina Del Rey) : June 1, 2024</li>
-    <li>Ventura Challenge (Ventura): June 8, 2024</li>
-    <li>Kahakai Challenge (Long Beach): June 15, 2024</li>
-    <li>Iron Champs (San Diego) : June 22, 2024</li>
+    <li>Crystal Pier (San Diego): May 3, 2024</li>
+    <li>Battle of the Breakwater (Long Beach): May 10, 2024</li>
+    <li>Rig Run (Santa Barbara): May 17, 2024</li>
+    <li>Kamanahoku Klassic (Marina Del Rey) : June 7, 2024</li>
+    <li>Ventura Challenge (Ventura): June 14, 2024</li>
+    <li>Iron Champs (San Diego) : June 28, 2024</li>
 </ul>
 
 <h4>August-September: 9-Man Season</h4>
 <p>
-9-person races involve crews of up to 9 paddlers. While 6 paddlers paddle the canoe, the remaining paddlers take a break on a 
+9-person races involve crews of up to 9 paddlers. While six paddlers paddle the canoe, the remaining three paddlers take a break on a 
 chase boat and periodically relieve the paddlers. 9-person races are generally much longer than iron races, ranging from
 about 18 miles to over 30 miles.
 </p>
@@ -185,8 +196,8 @@ season. And, of course, all members are welcome to practice year round.
 </p>
 
 <p>
-    The race season finishes with the US Outrigger Championships Catalina Crossing where women's and co-ed teams race from Newport to Catalina
-    on Saturday and the men race back on Sunday. 
+    The race season finishes with the US Outrigger Championships Catalina Crossing where women's and some co-ed teams race from Newport to Catalina
+    on Saturday and the men and remaining co-ed teams race back on Sunday. 
     <!--Here's the drone footage of the women and coed crews leaving Newport.-->
 </p>
 
@@ -196,9 +207,9 @@ season. And, of course, all members are welcome to practice year round.
 
 <p>9-Person Race Schedule:
 <ul>
-    <li>Whitey Harrison 9-Man (Dana Point) : Aug. 10, 2024</li>
-    <li>Paopao 9-Man (Oceanside): Aug. 24, 2024</li>
-    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : Sept. 7 & 8, 2024</li>
+    <li>Whitey Harrison 9-Man (Dana Point) : Aug. 9, 2024</li>
+    <li>Paopao 9-Man (Oceanside): Aug. 23, 2024</li>
+    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : Sept. 6 & 7, 2024</li>
 </ul>
 
 <!-- Video no longer available
@@ -208,7 +219,7 @@ season. And, of course, all members are welcome to practice year round.
 
 <h4>September-March:  Winter Paddling</h4>
 <p>Winter practices will be subject to daylight and weather restrictions and continue at Avila Beach, until the time changes.
-A few canoes will  then be re-located to Morro Bay for more protected paddling.  
+A few canoes will then be re-located to Morro Bay for more protected paddling.  
 </p>
 <p>By the time your novice season is over, you will have gained some new skills, increased your fitness levels and made a number of new friends.
 </p>
