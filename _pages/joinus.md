@@ -7,6 +7,7 @@ image: assets/images/2019-recruitment-background.jpg
 permalink: /joinus/
 redirect_from:
   - /recruitment-program/
+  - /JOINUS/
 ---
 <h2>Annual Recruitment Program</h2>
 
