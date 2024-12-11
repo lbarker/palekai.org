@@ -27,8 +27,8 @@ redirect_from:
 <p>Pale Kai will be offering FREE* Sunday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
-<p>Subject to weather conditions, demonstration sessions will be held at 9am every Sunday, beginning January 12 and continuing
-through the end of February. No need to make a reservation - just drop by Coleman Beach around 9am and we'll find you a seat.</p>
+<p>Subject to weather conditions, demonstration sessions will be held from 9am to 11am every Sunday, beginning January 12 and continuing
+through the end of February. No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat.</p>
 
 <p><i>
     * Pale Kai offers a "Three for Free" policy to allow newcomers to experience outrigger paddling without paying a fee or 
