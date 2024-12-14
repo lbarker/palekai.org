@@ -173,26 +173,26 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 
-<p>6-Person Iron Race Schedule:
+<p>6-Person Iron Race Schedule for 2025:
 <ul>
-    <li>Crystal Pier (San Diego): May 3, 2024</li>
-    <li>Battle of the Breakwater (Long Beach): May 10, 2024</li>
-    <li>Rig Run (Santa Barbara): May 17, 2024</li>
-    <li>Kamanahoku Klassic (Marina Del Rey) : June 7, 2024</li>
-    <li>Ventura Challenge (Ventura): June 14, 2024</li>
-    <li>Iron Champs (San Diego) : June 28, 2024</li>
+    <li>Crystal Pier (San Diego): May 3</li>
+    <li>Battle of the Breakwater (Long Beach): May 10</li>
+    <li>Rig Run (Santa Barbara): May 17</li>
+    <li>Kamanahoku Klassic (Marina Del Rey) : June 7</li>
+    <li>Ventura Challenge (Ventura): June 14</li>
+    <li>Iron Champs (San Diego) : June 28</li>
 </ul>
 
 <h4>August-September: 9-Man Season</h4>
 <p>
-9-person races involve crews of up to 9 paddlers. While six paddlers paddle the canoe, the remaining three paddlers take a break on a 
+9-person races involve crews of up to 9 paddlers. While six paddlers paddle the canoe, the remaining paddlers take a break on a 
 chase boat and periodically relieve the paddlers. 9-person races are generally much longer than iron races, ranging from
 about 18 miles to over 30 miles.
 </p>
 <p>
 Due to the increased physical demands and skills required to paddle 9-person distances and to perform open water
 crew changes, there is no guarantee that a first-year paddler will be invited to participate in a 9-person race crew. That
-said, first-year paddlers who demonstrate sufficient conditioning and proficiency <b>may</b> invited to compete in the 9-person
+said, first-year paddlers who demonstrate sufficient conditioning and proficiency <b>may</b> be invited to compete in the 9-person
 season. And, of course, all members are welcome to practice year round.
 </p>
 
