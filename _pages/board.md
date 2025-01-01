@@ -9,17 +9,17 @@ permalink: /board/
 
 Thank you to the board members and officers who selflessly volunteer their time and talent behind the scenes to keep this club operating smoothly:
 
-- President:                Mike Traynor
+- President:                Jim Hamari
 - Vice President:           Cindy Holton
 - Secretary:                Brenda Breslin
-- Treasurer:                Stephanie Tran
-- Events Coordinator:       Jenny Beck & Emily Covington
-- Membership:               Katherine Nilbrink & Cindy Vormbaum
+- Treasurer:                Tanya Richardson
+- Events Coordinator:       Kristine Canada
+- Membership:               Lori Lienau & Jody Jones
 - Equipment Coordinator:    Mike Casey & Tracy Lukehart
 - Transportation:           Dale Pederson
-- Sponsorship/Fundraising:  Geof Findley
+- Sponsorship/Fundraising:  Tamara Jones
 - Communications:           Joshua Tickenoff
-- SCORA Rep:                Melissa Traynor
+- SCORA Rep:                Tanya Chroman
 - Head Coach:               Scott Bixler
 - Men's Coach:              Scott Poe
 - Women's Coach:            Sarah Donahue & Sarah Sandstrom
