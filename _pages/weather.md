@@ -36,9 +36,8 @@ height=420&color=870100&name=Port San Luis&activity=Windsurf&app=windalert"
 
 <h3>Webcam</h3>
 
-<iframe width="1161" height="678" src="https://www.youtube.com/embed/u-tK0u4l_iY" title="Avila Beach Live Webcam - California - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1161" height="678" src="https://www.youtube.com/embed/rY3VkqAHvps" title="Avila Beach Live Webcam - California - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1161" height="678" src="https://www.youtube.com/embed/Q7xN0FU_bzg" title="Avila Beach Overlook Webcam - 805 Webcams and PG&amp;E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1161" height="678" src="https://www.youtube.com/embed/W_xQAzv6Wxc" title="Avila Beach Overlook Webcam - 805 Webcams and PG&amp;E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="1167" height="681" src="https://www.youtube.com/embed/cL99MxAVUCg" title="Flying Flags Avila Beach Webcam - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="1167" height="681" src="https://www.youtube.com/embed/5XaPE8C5aQU" title="Flying Flags Avila Beach Webcam - 805 Webcams" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
