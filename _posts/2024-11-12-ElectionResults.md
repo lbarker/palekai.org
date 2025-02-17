@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Election Results for PKO Officers for 2024
-description: Election Results for 2024
+title: Election Results for PKO Officers for 2025
+description: Results from 2024 Election
 categories: Board-Meeting
 image: assets/images/board-meeting-2.jpg
 ---
