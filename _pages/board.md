@@ -19,8 +19,9 @@ Thank you to the board members and officers who selflessly volunteer their time 
 - Transportation:           Dale Pederson
 - Sponsorship/Fundraising:  Tamara Jones
 - Communications:           Joshua Tickenoff
-- SCORA Rep:                Tanya Chroman
+- SCORA Director:           Tanya Chroman
 - Head Coach:               Scott Bixler
 - Men's Coach:              Scott Poe
-- Women's Coach:            Sarah Donahue & Sarah Sandstrom
+- Women's Coach:            Sarah Sandstrom
 - Novice Coach:             Tommy Perez
+- Alternate SCORA Director:	Lorri Nelson
