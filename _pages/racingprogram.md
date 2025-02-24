@@ -56,6 +56,7 @@ redirect_from:
 
 <div class="table-wrapper">
 	<table>
+		<!--	
 		<thead>
 			<tr>
 				<th></th>
@@ -66,7 +67,9 @@ redirect_from:
 				<th style="text-align:center">Saturday</th>
 			</tr>
 		</thead>
+		-->
 		<tbody>
+			<!--
 			<tr>
 				<td>Novice</td>
 				<td>
