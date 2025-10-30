@@ -28,7 +28,7 @@ redirect_from:
 <p>Pale Kai will be offering FREE* Sunday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
 canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
 
-<p>Subject to weather conditions, demonstration sessions will be held from 9am to 11am every Sunday, beginning January 12 and continuing
+<p>Subject to weather conditions, demonstration sessions will be held from 9am to 11am every Sunday, beginning mid-January and continuing
 through the end of February. No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat.</p>
 
 <p><i>
@@ -173,14 +173,14 @@ The first official races begin in May.  Pale Kai is a member of the Southern Cal
 <p>The Iron Season concludes with the championships in San Diego. This highly attended event attracts entrants from all over the state and is a fitting tribute to the outrigger culture. For added fun, novice teams are encouraged to enter the Novice Dance Competition to display their grace and creativity, or just poke fun at themselves in a family friendly environment.
 </p>
 
-<p>6-Person Iron Race Schedule for 2025:
+<p>6-Person Iron Race Schedule for 2026:
 <ul>
-    <li>Crystal Pier (San Diego): May 3</li>
-    <li>Battle of the Breakwater (Long Beach): May 10</li>
-    <li>Rig Run (Santa Barbara): May 17</li>
-    <li>Kamanahoku Klassic (Marina Del Rey) : June 7</li>
-    <li>Ventura Challenge (Ventura): June 14</li>
-    <li>Iron Champs (San Diego) : June 28</li>
+    <li>Crystal Pier (San Diego): May 2</li>
+    <li>Battle of the Breakwater (Long Beach): May 9</li>
+    <li>Rig Run (Santa Barbara): May 16</li>
+    <li>Kamanahoku Klassic (Marina Del Rey) : June 6</li>
+    <li>Ventura Challenge (Ventura): June 13</li>
+    <li>Iron Champs (San Diego) : June 27</li>
 </ul>
 
 <h4>August-September: 9-Man Season</h4>
@@ -206,11 +206,11 @@ season. And, of course, all members are welcome to practice year round.
 <p><a href="https://www.scora.org/races/" target="_blank" class="button">View SCORA Race Schedule</a></p>
 -->
 
-<p>9-Person Race Schedule:
+<p>9-Person Race Schedule for 2026:
 <ul>
-    <li>Whitey Harrison 9-Man (Dana Point) : Aug. 9, 2024</li>
-    <li>Paopao 9-Man (Oceanside): Aug. 23, 2024</li>
-    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : Sept. 6 & 7, 2024</li>
+    <li>Whitey Harrison 9-Man (Dana Point) : August 8</li>
+    <li>Paopao 9-Man (Oceanside): August 22</li>
+    <li>Catalina Crossing 9-Man (Newport Beach / Avalon) : September 13 & 14</li>
 </ul>
 
 <!-- Video no longer available
