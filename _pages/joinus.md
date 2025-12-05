@@ -25,11 +25,21 @@ redirect_from:
 
 <h4>Demo Days in Morro Bay - January and February</h4>
 
-<p>Pale Kai will be offering FREE* Sunday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
-canoe and on the water. Join us for a fun intro to outrigger canoe paddling.</p>
+<p>
+Pale Kai will be offering FREE* Saturday morning demonstration sessions at Coleman Beach in Morro Bay to get you in a
+canoe and on the water. Demonstration sessions will be held at 9:30am and at 11:00am every Saturday, beginning January 17th
+and continuing through February 7th. Demo sessions will last about 75 minutes. 
+We hope you'll join us for a fun intro to outrigger canoe paddling!
+</p>
 
-<p>Subject to weather conditions, demonstration sessions will be held from 9am to 11am every Sunday, beginning mid-January and continuing
-through the end of February. No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat.</p>
+<!-- No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat. -->
+
+<a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-60818577-pale#/" target="_blank" class="button special">RESERVE MY SEAT!</a>
+
+<p><i>
+    Note that all demonstration and practice sessions are subject to weather
+	conditions and availability of seats.
+</i></p>
 
 <p><i>
     * Pale Kai offers a "Three for Free" policy to allow newcomers to experience outrigger paddling without paying a fee or 
@@ -156,11 +166,17 @@ participate in:
 </p>
 
 <h4>March - April:  Race Training 3 times a week</h4>
-<p>Race training will begin in early March.</p>
 <p>
-Your novice coach will provide the skills training you will need for the upcoming race season. It is important to practice with your team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
+Race training will begin in early March. We generally practice three times a
+week: Saturday or Sunday mornings at 8:30am and two weeknights at 5:30pm.
+</p>
 
-<p>All paddlers must be proficient swimmers. Before our competitive season begins, you must pass a water safety test that includes
+<p>Your novice coach will provide the skills training you will need for the upcoming race season.</p>
+
+<p>It is important to practice with your
+team consistently to develop your technique and timing. You will also form new friendships (for no additional fee!).</p>
+
+<p>All paddlers must be proficient swimmers. Before our competitive season begins, paddlers must pass a water safety test that includes
 huli drills (recovering from an overturned canoe), treading water, as well as a 100 meter swim test administered by a PKO coach.</p>
 
 <img src="/assets/images/outrigger-race-1.jpg" class="image right">
