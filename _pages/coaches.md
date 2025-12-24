@@ -52,6 +52,7 @@ Sarah S. began her paddling journey with a passion for standup paddleboard racin
 Fast forward to today, Sarah is excited to step in and help Pale Kai build upon the recent 2023 season women’s crew racing successes.  As a 2024 women’s co-coach, Sarah looks forward to applying her experience in endurance paddle training to help the team become even stronger and faster, while still supporting fun and positive experience.
 </P>
 
+<!--
 ## Sarah Donahue
 ### Women's Coach
 <img src="/assets/images/bio/SarahD_2024.jpg"  class="headshot" />
@@ -60,6 +61,7 @@ Sarah D. began her pursuit of water sports in college as a four year member of t
 </p><p>
 Sarah moved to the Central Coast and joined Pale Kai in 2014. Sarah has a deep passion for training, sports psychology and brings a competitive edge. She enjoys the escapism paddling provides after a long day at her full time gig as a middle school counselor. Sarah is excited to co-coach with Sarah S and continue to build the athleticism of our strong women paddlers that Pale Kai is fortunate to have. 
 </p>
+-->
 
 <!-- Put some space between bios. -->
 <div class="clear"></div><br>
