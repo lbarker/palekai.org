@@ -66,6 +66,46 @@ Sarah moved to the Central Coast and joined Pale Kai in 2014. Sarah has a deep p
 <!-- Put some space between bios. -->
 <div class="clear"></div><br>
 
+## Josh Tickenoff
+### Novice Coach
+<img src="/assets/images/bio/JoshT_2025b.JPG"  class="headshot" />
+<p>
+Josh came to the Central Coast <!--from Orange County--> four years ago. After a year of "all work and no play", he
+resolved to get a life. Fortuitously, he met a paddler who shared her passion of paddling with PKO. <!-- Despite
+growing up near the Newport Aquatic Center, Josh had never realized Hawaiian‑style outrigger paddling existed in
+California — let alone in Avila Beach.-->One Demo Day was all it took; he was hooked.
+</p>
+<p>
+Josh has competed in numerous races during his tenure with PKO. In addition to the "standard" Southern California
+6- and 9-man races, he's participated in the Catalina Crossing, Another Dam Race (ADR), and the Gorge (on a 1-man canoe).
+He counts ADR and the Gorge among his favorites.
+</p>
+<p>
+Before discovering outrigger paddling, Josh was primarily an individual sports guy - surfing, skating, snowboarding.
+"One thing I’ve loved about joining PKO is how it’s challenged me to step into a team and endurance sport<!--, both of 
+which I avoided my entire life-->. I love how PKO has challenged me to grow. It’s undeniable that we all
+ “trauma bond” in competition."
+</p>
+<p>
+In addition to paddling, Josh enjoys hiking, camping, light trail jogs ("no marathons for me!"), biking around town,
+and the many other activities available on the central coast. Josh is a huge fan of trying new things.
+</p>
+<p>
+Josh considers San Luis Obispo his “Goldilocks Land.” <!--As a kid, he spent summers in Cambria, but it wasn’t until
+later in life that he fell in love with SLO proper and the surrounding areas.--> Moving here, he says, was one of the best
+decisions he’s made in years: “Every day feels like a mini vacation.”
+</p>
+
+
+<!-- Put some space between bios. -->
+<div class="clear"></div><br>
+
+<!--
+I archive old bios here so they can be easily re-used. I know I can find old bios in GIT, but it's a lot easier if they're
+right here.
+-->
+
+<!--
 ## Tommy Perez
 ### Novice Coach
 <img src="/assets/images/bio/TommyP_2024.jpg"  class="headshot" />
@@ -78,11 +118,6 @@ Tommy's love for paddling began "in the womb" and was realized in 2012 after joi
 <p>
 Wherever Tommy is, he is easy to find...just lookout for the guy on the water with the biggest smile!  
 </p>
-
-
-<!--
-I archive old bios here so they can be easily re-used. I know I can find old bios in GIT, but it's a lot easier if they're
-right here.
 -->
 
 <!--
@@ -185,15 +220,12 @@ A decade later, Andrew found a second family - Pale Kai. Although his first year
 ### Novice Coach
 <img src="/assets/images/bio/BobT_2023.jpg"  class="headshot" />
 <p>
-Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022. His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and, after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice coach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination of great fitness, deep sense of well being, and development of new friendships, all the while working together as a team toward the common goal of paddling faster than all the other novice teams!
-</p>
--->
-
-<!--
-## Bob Teaford
-### Novice Coach
-<img src="/assets/images/bio/BobT_2023.jpg"  class="headshot" />
-<p>
-Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022. His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and, after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice coach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination of great fitness, deep sense of well being, and development of new friendships, all the while working together as a team toward the common goal of paddling faster than all the other novice teams!
+Bob joined Pale Kai in 2019 as a Novice, paddled through the 'COVID years,' and raced as a veteran in 2022.
+His background in sport includes road bike racing, mountain bike racing, car racing, as well as lots of sailboat
+racing and cruising, more than 10,000 miles all around the world. He joined Pale Kai in pretty poor health and,
+after four years of paddling, claims his fitness is as good or better than in his 20's. Bob's hope as a Novice 
+oach is to provide a safe, supportive, and encouraging environment for everyone to reach that elusive combination
+of great fitness, deep sense of well being, and development of new friendships, all the while working together as
+a team toward the common goal of paddling faster than all the other novice teams!
 </p>
 -->
