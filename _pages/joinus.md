@@ -43,7 +43,7 @@ We hope you'll join us for a fun intro to outrigger canoe paddling!
 
 <p><i>
     * Pale Kai offers a "Three for Free" policy to allow newcomers to experience outrigger paddling without paying a fee or 
-    membership dues. Should a guest wish to continue paddling through the end of February, they'll be asked to make a small non-refundable
+    membership dues. Should a guest wish to continue paddling through the end of February, they may be asked to make a small non-refundable
     contribution to the club. That contribution will be applied to their annual dues should they choose to join Pale Kai in March.
 </i></p>
 
