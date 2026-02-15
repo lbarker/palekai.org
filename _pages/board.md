@@ -24,4 +24,4 @@ Thank you to the board members and officers who selflessly volunteer their time 
 - Men's Coach:              Scott Poe
 - Women's Coach:            Sarah Sandstrom
 - Novice Coach:             Josh Tickenoff
-- Alternate SCORA Director:	TBA
+- Alternate SCORA Director:	Lorri Nelson
