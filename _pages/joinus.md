@@ -11,8 +11,9 @@ redirect_from:
 ---
 <h2>Annual Recruitment Program</h2>
 
+<p>The 2026 Recruitment Program has concluded!</p>
+
 <!--
-<p>The 2023 Recruitment Program has concluded! <strong>The 1st day of novice pracice is March 4th in Morro Bay</strong>.</p>
 
 <p>If you didn't make it to a Demo Day this year but would still like to join PKO for 2023, then register now!</p>
 <a href="/members/registration/" target="_blank" class="button">Member Registration</a>
@@ -20,7 +21,6 @@ redirect_from:
 <p>Click <a href="/programs/open/" target="_blank">here</a> to see the general practice schedule</p>
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
--->
 
 
 <h4>Demo Days in Morro Bay - January and February</h4>
@@ -34,6 +34,8 @@ We hope you'll join us for a fun intro to outrigger canoe paddling!
 
 <!-- No need to make a reservation - just drop by Coleman Beach between 9am and 10am and we'll find you a seat. -->
 
+<!--
+
 <a href="https://www.signupgenius.com/go/409044BAFA82CA2F85-60818577-pale#/" target="_blank" class="button special">RESERVE MY SEAT!</a>
 
 <p><i>
@@ -46,6 +48,8 @@ We hope you'll join us for a fun intro to outrigger canoe paddling!
     membership dues. Should a guest wish to continue paddling through the end of February, they may be asked to make a small non-refundable
     contribution to the club. That contribution will be applied to their annual dues should they choose to join Pale Kai in March.
 </i></p>
+
+-->
 
 <!--
 <p>We will begin accepting reservations on October 1st. Check back here to reserve your seat.
@@ -91,6 +95,7 @@ We hope you'll join us for a fun intro to outrigger canoe paddling!
 
 <p>Reach out to <a href="mailto:join@palekai.org">join@palekai.org</a> if you have questions.</p>
 
+<!-- Since recruiting is done, commenting out the video, What to Bring, Suggested Attire, and What to Expect sections.
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/zrnwIQfU3R4" frameborder="0" allowfullscreen></iframe>
 
@@ -131,6 +136,8 @@ Pale Kai members.
 <p>Pale Kai may provide light snacks and refreshments, but guests should arrive well-nourished and hydrated and ready for a workout.</p>
 
 <p>For more information about paddling with Pale Kai, contact: <a href="mailto:join@palekai.org">join@palekai.org</a>.
+
+-->
 
 <h2>Novice Year Participation</h2>
 <p>
